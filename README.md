@@ -1,4 +1,5 @@
 # React + Vite
+![image](https://github.com/akshayark97/react-redux-tether/assets/39210915/0158ef48-d5b5-4ad3-abae-5b1f83feec8b)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
